@@ -9,6 +9,6 @@ exports.helloWorldfromGithub = functions.https.onRequest((request, response) => 
 //   response.send("Hello from Firebase!");
 // });
 // =======
-  response.send("Hello from Firebase from Robert!");
+  response.send("Hello from Firebase Function!");
 });
 // >>>>>>> 6f14d829b31284c6fd0eae9af1f9b4809cc11a38
